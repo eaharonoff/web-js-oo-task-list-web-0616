@@ -1,0 +1,5 @@
+const Store = {
+  lists: [],
+  tasks: []
+};
+
